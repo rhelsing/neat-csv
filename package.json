@@ -35,7 +35,7 @@
     "parser"
   ],
   "dependencies": {
-    "csv-parser": "^1.6.0",
+    "csv-parser": "github:rhelsing/csv-parser",
     "get-stream": "^2.1.0",
     "into-stream": "^2.0.0"
   },
